@@ -10,6 +10,13 @@ A Python-based GUI application for managing Cisco network devices, enabling VLAN
 - **Port Management**: Monitor port status, configure port security, and set port speed and duplex settings.
 - **Traffic Monitoring**: Monitor traffic on the device interfaces.
 
+## Screenshots
+
+
+https://github.com/user-attachments/assets/beb76abe-bd80-43f9-b357-acff52bc739e
+
+
+
 ## Prerequisites
 
 - Python 3.x
