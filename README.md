@@ -1,6 +1,6 @@
 # CiscoNetworkManager
 
-A Python-based GUI application for managing Cisco network devices, enabling VLAN creation, port configuration, traffic monitoring, and connection management using Tkinter and Netmiko.
+A Python-based GUI application for managing Cisco network devices, enabling VLAN creation, port configuration, traffic monitoring, and connection management using Netmiko. (Still working for advanced routing controls)
 
 ## Features
 
