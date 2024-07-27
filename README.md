@@ -20,8 +20,8 @@ A Python-based GUI application for managing Cisco network devices, enabling VLAN
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/nerdygeek2127/CiscoNetworkManager.git
-    cd CiscoNetworkManager
+    git clone https://github.com/nerdygeek2127/Cisco_Interface_Manager.git
+    cd Cisco_Interface_Manager
     ```
 
 2. **Install the required Python packages**:
