@@ -99,7 +99,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Feel free to submit issues, fork the repository, and send pull requests. Contributions are welcome!
-
-## Contact
-
-For any inquiries, please contact nerdygeek2127@example.com.
